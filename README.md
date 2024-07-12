@@ -1,6 +1,6 @@
 ![ＵＣtw_icon2_128x128_ue_plugin02](https://github.com/sachinashi/UcSpLight/assets/76891938/d2ca5bd9-8bb0-43b2-b8d6-11128b1d0b88)
 # SpLightプラグインとは
-## 2D画像に陰影を付けるUEプラグイン
+## 2D画像に動的に陰影を付けるUEプラグイン
 - 主にドット絵で使う
 - 絵の影色を制御しやすくする
 - 複数画像を用意して実現する
@@ -13,7 +13,12 @@
 動画を準備中…
 
  # 仕様の解説と画像の作り方
- pdfを準備中…
+ [SpLightプラグイン取扱説明書](https://app.box.com/s/yweie7a8pu0g4gm8e757bx6iv9vq3ww1)
+
+ pdfファイルにて解説。
+ 使い方よりも画像製作の仕様に寄った内容。
 
 # オススメのドット絵エディタ
 <a href="https://takabosoft.com/edge2"><img src="https://takabosoft.com/wp-content/themes/takabosoft/edge2/banner00.png" alt="高機能ドット絵エディタ EDGE2" border=0 /></a>
+
+EDGE2 大変オススメです。
