@@ -13,7 +13,7 @@
 動画を準備中…
 
  # 仕様の解説と画像の作り方
- [SpLightプラグイン取扱説明書](https://app.box.com/s/yweie7a8pu0g4gm8e757bx6iv9vq3ww1)
+ [SpLightプラグイン取扱説明書](https://app.box.com/s/6qzy7rbi3xr4kvvx4nd2sp7g3emxg0qx)
 
  pdfファイルにて解説。
  使い方よりも画像製作の仕様に寄った内容。
