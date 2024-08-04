@@ -22,3 +22,6 @@
 <a href="https://takabosoft.com/edge2"><img src="https://takabosoft.com/wp-content/themes/takabosoft/edge2/banner00.png" alt="高機能ドット絵エディタ EDGE2" border=0 /></a>
 
 EDGE2 大変オススメです。
+
+# 連絡先
+in4-uc@outlook.com
