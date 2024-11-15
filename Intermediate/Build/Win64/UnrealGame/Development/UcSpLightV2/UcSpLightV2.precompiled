@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\UcSpLightV2\\Module.UcSpLightV2.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\UcSpLightV2\\SpLightBlueprintFunctionLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\UcSpLightV2\\UcSpLightV2.cpp.obj"
+	]
+}

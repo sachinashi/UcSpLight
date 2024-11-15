@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.5.4.0001",
+	"FriendlyName": "UcSpLightV2",
+	"Description": "Lighting Pixel art",
+	"Category": "Other",
+	"CreatedBy": "sachinashi",
+	"CreatedByURL": "https://github.com/sachinashi/UcSpLight",
+	"DocsURL": "https://app.box.com/s/6qzy7rbi3xr4kvvx4nd2sp7g3emxg0qx",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/sachinashi/UcSpLight",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UcSpLightV2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		}
+	]
+}
